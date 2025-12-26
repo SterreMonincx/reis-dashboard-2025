@@ -14,22 +14,19 @@
               "type": "arrival",
               "title": "Aankomst Hong Kong",
               "location": "Hong Kong International Airport",
-              "details": "Vlucht EK 380",
-              "icon": "plane"
+              "details": "Vlucht EK 380"
             },
             {
               "time": "Late avond",
               "type": "transfer",
               "title": "Transfer naar hotel",
-              "location": "The Hari Hong Kong, Wan Chai",
-              "icon": "car"
+              "location": "The Hari Hong Kong, Wan Chai"
             },
             {
               "time": "",
               "type": "accommodation",
               "title": "Check-in The Hari Hotel",
-              "location": "Wan Chai",
-              "icon": "hotel"
+              "location": "Wan Chai"
             }
           ]
         },
@@ -42,23 +39,20 @@
               "time": "Ochtend",
               "type": "free",
               "title": "Vrije tijd - Jet lag recovery",
-              "suggestions": ["Ontspannen in hotel", "Korte wandeling in Wan Chai buurt", "Octopus card regelen"],
-              "icon": "coffee"
+              "suggestions": ["Ontspannen in hotel", "Korte wandeling in Wan Chai buurt", "Octopus card regelen"]
             },
             {
               "time": "Middag",
               "type": "activity",
               "title": "Verkenning Hong Kong Island",
-              "suggestions": ["Mid-levels escalators", "Soho district", "Peel Street"],
-              "icon": "map"
+              "suggestions": ["Mid-levels escalators", "Soho district", "Peel Street"]
             },
             {
               "time": "18:30",
               "type": "reservation",
               "title": "Dinner bij FRANCIS",
               "location": "FRANCIS Restaurant",
-              "confirmed": true,
-              "icon": "restaurant"
+              "confirmed": true
             }
           ]
         },
@@ -76,8 +70,7 @@
                 "Victoria Peak met zonsondergang",
                 "West Kowloon Art Park + M+ museum",
                 "Chi Lin Nunnery & Nan Lian Garden"
-              ],
-              "icon": "calendar"
+              ]
             }
           ]
         },
@@ -90,16 +83,14 @@
               "time": "Ochtend",
               "type": "free",
               "title": "Laatste ochtend Hong Kong",
-              "suggestions": ["Dim Sum ontbijt (Din Tai Fung, Tim Ho Wan)", "Last-minute shopping"],
-              "icon": "sunrise"
+              "suggestions": ["Dim Sum ontbijt (Din Tai Fung, Tim Ho Wan)", "Last-minute shopping"]
             },
             {
               "time": "09:05",
               "type": "departure",
               "title": "Vlucht naar Singapore",
               "location": "Hong Kong International Airport",
-              "details": "SQ 899 - Singapore Airlines",
-              "icon": "plane"
+              "details": "SQ 899 - Singapore Airlines"
             }
           ]
         }
@@ -119,22 +110,19 @@
               "type": "arrival",
               "title": "Aankomst Singapore",
               "location": "Singapore Changi International Airport",
-              "details": "Vlucht SQ 899",
-              "icon": "plane"
+              "details": "Vlucht SQ 899"
             },
             {
               "time": "Middag",
               "type": "transfer",
               "title": "Transfer naar hotel",
-              "location": "Artyzen Singapore, Orchard Road",
-              "icon": "car"
+              "location": "Artyzen Singapore, Orchard Road"
             },
             {
               "time": "Avond",
               "type": "free",
               "title": "Verkenning Orchard Road",
-              "suggestions": ["Orchard Road shopping", "Ontspannen bij hotel rooftop pool"],
-              "icon": "walk"
+              "suggestions": ["Orchard Road shopping", "Ontspannen bij hotel rooftop pool"]
             }
           ]
         },
@@ -152,8 +140,7 @@
                 "Marina Bay Sands area",
                 "Singapore Botanic Gardens",
                 "Lau Pa Sat hawker center"
-              ],
-              "icon": "camera"
+              ]
             },
             {
               "time": "Avond",
@@ -166,8 +153,7 @@
                 "Clifford Pier",
                 "Lantern Bar (Fullerton Bay Hotel)"
               ],
-              "note": "Tips van Samar - vroeg boeken!",
-              "icon": "party"
+              "note": "Tips van Samar - vroeg boeken!"
             }
           ]
         },
@@ -180,8 +166,7 @@
               "time": "Hele dag",
               "type": "free",
               "title": "🎊 NIEUWJAARSDAG - Rustig aan",
-              "suggestions": ["Uitslapen", "Brunch", "Relaxen bij hotel pool", "Chinatown verkennen"],
-              "icon": "relax"
+              "suggestions": ["Uitslapen", "Brunch", "Relaxen bij hotel pool", "Chinatown verkennen"]
             }
           ]
         },
@@ -199,9 +184,8 @@
                 "Little India & Arab Street",
                 "Raffles Hotel",
                 "Clarke Quay",
-                "Guided bike tour (geboekt?)"
-              ],
-              "icon": "calendar"
+                "Guided bike tour"
+              ]
             }
           ]
         },
@@ -213,16 +197,14 @@
             {
               "time": "Ochtend",
               "type": "free",
-              "title": "Laatste ochtend Singapore",
-              "icon": "coffee"
+              "title": "Laatste ochtend Singapore"
             },
             {
               "time": "10:45",
               "type": "departure",
               "title": "Vlucht naar Langkawi",
               "location": "Singapore Changi Airport",
-              "details": "AK 733 - AirAsia",
-              "icon": "plane"
+              "details": "AK 733 - AirAsia"
             }
           ]
         }
@@ -242,22 +224,19 @@
               "type": "arrival",
               "title": "Aankomst Langkawi",
               "location": "Langkawi International Airport",
-              "details": "Vlucht AK 733",
-              "icon": "plane"
+              "details": "Vlucht AK 733"
             },
             {
               "time": "Middag",
               "type": "transfer",
               "title": "Transfer naar resort",
-              "location": "Pelangi Beach Resort & Spa, Cenang Beach",
-              "icon": "car"
+              "location": "Pelangi Beach Resort & Spa, Cenang Beach"
             },
             {
               "time": "Namiddag/Avond",
               "type": "relaxation",
               "title": "Aankomst & Resort verkennen",
-              "suggestions": ["Check-in", "Strand verkennen", "Resort facilities bekijken"],
-              "icon": "beach"
+              "suggestions": ["Check-in", "Strand verkennen", "Resort facilities bekijken"]
             }
           ]
         },
@@ -275,8 +254,7 @@
                 "Watersport activiteiten bij resort",
                 "Spa treatment",
                 "Relaxen bij pool"
-              ],
-              "icon": "umbrella"
+              ]
             }
           ]
         },
@@ -294,8 +272,7 @@
                 "Island hopping tour",
                 "Kilim Geoforest Park",
                 "Pantai Cenang strand blijven genieten"
-              ],
-              "icon": "calendar"
+              ]
             }
           ]
         },
@@ -308,8 +285,7 @@
               "time": "Hele dag",
               "type": "relaxation",
               "title": "Laatste volle dag paradijs",
-              "suggestions": ["Strand", "Watersport", "Resort genieten", "Sunset watching"],
-              "icon": "sunset"
+              "suggestions": ["Strand", "Watersport", "Resort genieten", "Sunset watching"]
             }
           ]
         },
@@ -321,16 +297,14 @@
             {
               "time": "Overdag",
               "type": "free",
-              "title": "Laatste ochtend Langkawi",
-              "icon": "coffee"
+              "title": "Laatste ochtend Langkawi"
             },
             {
               "time": "20:05",
               "type": "departure",
               "title": "Vlucht naar Dubai (via Penang)",
               "location": "Langkawi International Airport",
-              "details": "EK 2390 - Emirates (stopover Penang 21:50)",
-              "icon": "plane"
+              "details": "EK 2390 - Emirates (stopover Penang 21:50)"
             }
           ]
         }
@@ -351,15 +325,13 @@
               "title": "Aankomst Dubai",
               "location": "Dubai International Airport",
               "details": "Vlucht EK 2390 (via Penang)",
-              "note": "Late aankomst - nachtrust",
-              "icon": "plane"
+              "note": "Late aankomst - nachtrust"
             },
             {
               "time": "Nacht",
               "type": "transfer",
               "title": "Transfer naar woestijn resort",
-              "location": "Bab Al Shams Desert Resort",
-              "icon": "car"
+              "location": "Bab Al Shams Desert Resort"
             }
           ]
         },
@@ -379,8 +351,7 @@
                 "Infinity pool",
                 "Woestijn wandeling",
                 "Traditioneel diner onder de sterren"
-              ],
-              "icon": "desert"
+              ]
             }
           ]
         },
@@ -399,8 +370,7 @@
                 "Dubai Mall",
                 "Dubai Marina",
                 "Of: relaxen in resort"
-              ],
-              "icon": "calendar"
+              ]
             }
           ]
         },
@@ -413,24 +383,21 @@
               "time": "Ochtend",
               "type": "free",
               "title": "Laatste ochtend woestijn",
-              "suggestions": ["Laatste ontbijt in de woestijn", "Foto's maken"],
-              "icon": "camera"
+              "suggestions": ["Laatste ontbijt in de woestijn", "Foto's maken"]
             },
             {
               "time": "15:20",
               "type": "departure",
               "title": "Vlucht terug naar Amsterdam",
               "location": "Dubai International Airport",
-              "details": "EK 149 - Emirates",
-              "icon": "plane"
+              "details": "EK 149 - Emirates"
             },
             {
               "time": "20:00",
               "type": "arrival",
               "title": "Aankomst Amsterdam",
               "location": "Schiphol Airport",
-              "details": "🏠 Thuis!",
-              "icon": "home"
+              "details": "🏠 Thuis!"
             }
           ]
         }

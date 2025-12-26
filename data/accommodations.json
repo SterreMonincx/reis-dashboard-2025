@@ -23,8 +23,7 @@
         "Business facilities"
       ],
       "website": "https://www.thehari.com/",
-      "nearbyAreas": ["Causeway Bay", "Wan Chai"],
-      "images": []
+      "nearbyAreas": ["Causeway Bay", "Wan Chai"]
     },
     {
       "id": "artyzen-sg",
@@ -48,8 +47,7 @@
         "Restaurant"
       ],
       "website": "https://www.artyzen.com",
-      "nearbyAreas": ["Orchard Road", "Singapore Botanic Gardens (UNESCO)"],
-      "images": []
+      "nearbyAreas": ["Orchard Road", "Singapore Botanic Gardens (UNESCO)"]
     },
     {
       "id": "pelangi-langkawi",
@@ -73,8 +71,7 @@
         "Ontspanningsfaciliteiten"
       ],
       "website": "https://www.pelangiresort.com/",
-      "nearbyAreas": ["Cenang Beach"],
-      "images": []
+      "nearbyAreas": ["Cenang Beach"]
     },
     {
       "id": "bab-al-shams",
@@ -101,18 +98,13 @@
         "Woestijnactiviteiten"
       ],
       "website": "https://www.babalshams.com/",
-      "distance": "40 minuten van Dubai centrum, 45 minuten van Dubai International Airport",
-      "images": []
+      "distance": "40 minuten van Dubai centrum, 45 minuten van Dubai International Airport"
     }
   ],
   "contacts": [
     {
       "name": "Mr. O. (Oscar) Monincx",
       "phone": "+31652008060"
-    },
-    {
-      "name": "Mw. C.R. (Carmen) Slokker",
-      "phone": "+31612345678"
     }
   ],
   "travelAgency": {
