@@ -1,0 +1,846 @@
+{
+  "hong-kong": {
+    "restaurants": [
+      {
+        "id": "din-tai-fung-hk",
+        "name": "Din Tai Fung",
+        "category": "Dim Sum / Taiwanese",
+        "priority": "must-do",
+        "description": "Lievelings!!!! De wontons in spicy saus zijn niet normaal. Soup dumplings en sesam noodles ook geweldig. Enorm lekker je moet met moet hierheen.",
+        "dishes": ["Spicy wontons", "Soup dumplings", "Sesam noodles"],
+        "priceRange": "$$",
+        "tips": "Denk hier nog bijna dagelijks aan!",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "one-dim-sum",
+        "name": "One Dim Sum",
+        "category": "Dim Sum",
+        "priority": "recommended",
+        "description": "Veel mensen hun go to dim sum tentje. Gewoon lekkere dim sum.",
+        "priceRange": "$$",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "tim-ho-wan",
+        "name": "Tim Ho Wan",
+        "category": "Dim Sum",
+        "priority": "recommended",
+        "description": "Dim sum met een Michelin ster. Om heel eerlijk te zijn niet heel anders dan bv een One Dim Sum, maar ook niet veel duurder.",
+        "priceRange": "$$",
+        "michelin": true,
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "tung-po",
+        "name": "Tung Po Kitchen",
+        "category": "Local Cantonese",
+        "priority": "must-do",
+        "description": "Echt een hele geinige ervaring met alleen maar locals. Meer local eten. De aubergine was heel lekker en je hebt echt van alles hier.",
+        "priceRange": "$",
+        "tips": "Heel leuk om local te eten!",
+        "source": "Hong Kong favorites PDF + Tips"
+      },
+      {
+        "id": "bengal-brothers",
+        "name": "Bengal Brothers",
+        "category": "Indian",
+        "priority": "recommended",
+        "description": "Allerlekkerste butter chicken ooit. Leuk om af te halen in Wan Chai en te eten aan het water.",
+        "location": "Wan Chai",
+        "priceRange": "$$$",
+        "tips": "Wel beetje prijzig maar je zou best kunnen delen",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "samsen",
+        "name": "Samsen",
+        "category": "Thai",
+        "priority": "must-do",
+        "description": "De allerlekkerste Thai OOIT. Wel wat duurder wauw het is elke euro waard.",
+        "priceRange": "$$$",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "campers",
+        "name": "Campers",
+        "category": "Japanese",
+        "priority": "recommended",
+        "description": "Super lekkere pork Japanse curry wauw, überhaupt alles hier heel lekker.",
+        "dishes": ["Pork Japanese curry"],
+        "priceRange": "$$",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "genki-sushi",
+        "name": "Genki Sushi",
+        "category": "Sushi",
+        "priority": "fun",
+        "description": "Sushi aan de lopende band, erg leuk moet je echt keertje gedaan hebben (vooral als je brak bent een aanrader).",
+        "priceRange": "$$",
+        "tips": "Heel leuk concept!",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "chom-chom",
+        "name": "Chom Chom",
+        "category": "Vietnamese",
+        "priority": "recommended",
+        "description": "Heel leuk Vietnamees restaurant.",
+        "priceRange": "$$",
+        "source": "Tips Wessel"
+      },
+      {
+        "id": "carousel",
+        "name": "Carousel",
+        "category": "Local Street Food",
+        "priority": "recommended",
+        "description": "Zit naast Temple Street (niet te vinden op Google Maps). Heel leuke plek waarbij je heel lekker kan eten en echt op plastic stoeltjes zit buiten etc.",
+        "location": "Bij Temple Street",
+        "priceRange": "$",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "temple-street",
+        "name": "Temple Street Night Market",
+        "category": "Street Food",
+        "priority": "recommended",
+        "description": "Leuke straat met veel karretjes, een van de weinige plekken waar je echt eten op straat kan halen. Veel lichtjes.",
+        "location": "Kowloon",
+        "priceRange": "$",
+        "tips": "Dichtbij Ladies Market",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "pici",
+        "name": "Pici",
+        "category": "Italian",
+        "priority": "special-occasion",
+        "description": "Als je zin hebt in pasta is dit een erg lekkere westerse Italiaan. Je hebt een soort tasting menu.",
+        "priceRange": "$$$",
+        "tips": "Voor verjaardagen",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "pizza-project",
+        "name": "The Pizza Project",
+        "category": "Pizza",
+        "priority": "optional",
+        "description": "Als je cravings hebt naar pizza en het niet erg vindt om hier wat meer voor uit te geven heel lekker.",
+        "priceRange": "$$$",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "elephant-grounds",
+        "name": "Elephant Grounds",
+        "category": "Western Brunch",
+        "priority": "recommended",
+        "description": "Heel lekker voor een brakke lunch. Westers heel lekker eten.",
+        "location": "K11 Musea bovenin",
+        "priceRange": "$$$",
+        "tips": "Ook leuk om te studeren",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "australia-dairy",
+        "name": "Australia Dairy Company",
+        "category": "Cantonese Breakfast",
+        "priority": "cultural",
+        "description": "Hier kan je een typisch Hongkongs/Cantonees ontbijt halen. Leuk om keer geprobeerd te hebben.",
+        "priceRange": "$",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "biang-biang",
+        "name": "Biang Biang Noodles",
+        "category": "Chinese Noodles",
+        "priority": "recommended",
+        "description": "Populaire dikke noodles, heel lekker. Zitten op meerdere plekken in de stad.",
+        "priceRange": "$$",
+        "source": "Hong Kong favorites PDF"
+      }
+    ],
+    "nightlife": [
+      {
+        "id": "cassio",
+        "name": "Cassio",
+        "category": "Club",
+        "area": "LKF Central",
+        "priority": "must-do",
+        "description": "Coole club, vaak echt goede dj's!! Als je zegt welke dagen je er zit dan kan ik kijken of Alex draait (ken ik nog van toen en hij is mede eigenaar & hele goede dj!!)",
+        "tips": "Chiquer, wel heel cool",
+        "source": "Tips Wessel + PDF"
+      },
+      {
+        "id": "faye-club",
+        "name": "Faye",
+        "category": "Club",
+        "area": "LKF",
+        "priority": "must-do",
+        "description": "Ram muziek en staat heeeeeel hard. Wel leuk want veel gaan hierheen.",
+        "tips": "Ook rooftop met cocktails en gaaf uitzicht!",
+        "source": "Tips Wessel + PDF"
+      },
+      {
+        "id": "faye-rooftop",
+        "name": "Faye Rooftop",
+        "category": "Rooftop Bar",
+        "area": "LKF",
+        "priority": "recommended",
+        "description": "Heel cool uitzicht en leuk. Rooftop & club - hele gaaf uitzicht!!!",
+        "source": "Tips Wessel + PDF"
+      },
+      {
+        "id": "iron-fairies",
+        "name": "Iron Fairies",
+        "category": "Bar/Club",
+        "area": "LKF",
+        "priority": "recommended",
+        "description": "Hier is ook vaak live muziek, heel leuk allemaal vlinders aan het plafond en gezellige vibe. Leuke verhalen!",
+        "source": "Tips Wessel + PDF"
+      },
+      {
+        "id": "quality-goods",
+        "name": "Quality Goods",
+        "category": "Club",
+        "area": "LKF",
+        "priority": "recommended",
+        "description": "Heel leuke club in LKF!",
+        "source": "Tips Wessel"
+      },
+      {
+        "id": "carnegies",
+        "name": "Carnegies",
+        "category": "Bar",
+        "area": "Central",
+        "priority": "wednesday",
+        "description": "Elke woensdag dus tot 12 gratis drank voor meisjes. Leuke muziek!!",
+        "openingDays": ["Wednesday"],
+        "freeFor": "Vrouwen tot 00:00",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "dragon-i",
+        "name": "Dragon I",
+        "category": "Club",
+        "area": "Central",
+        "priority": "special",
+        "description": "Helemaal bovenin een gebouw, ook chiquer. Cool om te zien.",
+        "priceRange": "$$$",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "le-boudoir",
+        "name": "Le Boudoir",
+        "category": "Club",
+        "area": "Central",
+        "priority": "must-do",
+        "description": "In de laatste maand onze lievelings tent, hadden gewild dat we deze eerder hadden ontdekt. Leuke muziek en altijd wel gezellig.",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "mr-wong",
+        "name": "Mr Wong",
+        "category": "Bar",
+        "area": "Central",
+        "priority": "must-do",
+        "description": "Hier gaan heel veel studenten heen om in te drinken. Moet je echt vaak heen want is de plek om leuke internationals te ontmoeten.",
+        "priceRange": "$",
+        "tips": "Uit mn hoofd voor 50 HKD onbeperkt bier",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "the-old-man",
+        "name": "The Old Man",
+        "category": "Cocktail Bar",
+        "area": "Soho",
+        "priority": "recommended",
+        "description": "Hele leuke cocktailbar in Soho.",
+        "source": "Tips Wessel"
+      },
+      {
+        "id": "peel-street",
+        "name": "Peel Street",
+        "category": "Bar Street",
+        "area": "Soho",
+        "priority": "must-do",
+        "description": "In Soho leuke schuine straat super gezellig op vrijdagen. Bij Honey Hot aperol halen of bij 7/11 gewoon drankjes halen en daar dan gewoon staan. Vaak hier indrinken voordat je uitgaat, veel internationals.",
+        "tips": "Vrijdag avonden!",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "horse-races",
+        "name": "Horse Races",
+        "category": "Experience",
+        "area": "Happy Valley",
+        "priority": "must-do",
+        "description": "Zijn elke woensdag en moet je hoe dan ook heen. Is van 7 tot 11 s'avonds bij Happy Valley. Leuk om van tevoren eten af te halen en ergens aan t water bij Wan Chai oid te zitten. Je kan geld inzetten (cash) op die paarden!",
+        "openingDays": ["Wednesday"],
+        "time": "19:00-23:00",
+        "tips": "Vergeet cash niet! Daarna naar Carnegies",
+        "source": "Hong Kong favorites PDF + Rosa"
+      }
+    ],
+    "activities": [
+      {
+        "id": "dragons-back",
+        "name": "Dragons Back Hike",
+        "category": "Hike",
+        "difficulty": "Makkelijk",
+        "duration": "2-3 uur",
+        "priority": "must-do",
+        "description": "Leuke hike om mee te beginnen, mooi uitzicht. Vooral leuk omdat je op het eind van de hike naar Shek O beach kan gaan.",
+        "tips": "Hele goed te doen in het zuiden van Hong Kong Island. Niet doen als het heeft geregend!",
+        "endPoint": "Shek O Beach",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "suicide-cliff",
+        "name": "Suicide Cliff Hike",
+        "category": "Hike",
+        "difficulty": "Moeilijk",
+        "duration": "3-4 uur",
+        "priority": "recommended",
+        "description": "Hele bekende hike met prachtig uitzicht. Wel best een zware hike waarbij je 3 (steeds hoger wordende) bergen op moet. Wel heel leuk en een hele mooie zonsondergang vanaf hier (je kan boven de wolken zitten).",
+        "tips": "Ochtend of eind van de middag met zonsonderdag. NIET doen als het heeft geregend!",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "braemar-hill",
+        "name": "Braemar Hill",
+        "category": "Hike",
+        "difficulty": "Makkelijk",
+        "duration": "30 minuten",
+        "priority": "recommended",
+        "description": "Deze kan je doen als je niet echt wilt hiken maar wel vet uitzicht wilt. Kan je makkelijk biertjes ofzo meenemen en lekker chillen.",
+        "tips": "Hike van 30 min met mooi uitzicht",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "lion-rock",
+        "name": "Lion Rock",
+        "category": "Hike",
+        "difficulty": "Gemiddeld",
+        "priority": "recommended",
+        "description": "Hele vette hike met mooi uitzicht over de stad.",
+        "source": "Tips Wessel"
+      },
+      {
+        "id": "victoria-peak",
+        "name": "Victoria Peak",
+        "category": "Sightseeing",
+        "priority": "must-do",
+        "description": "Bij een mooie zonsondergang een keertje doen! Leuk met familie/vrienden ook aangezien je een hele mooie view van de stad krijgt.",
+        "tips": "Peak tram nemen. Je kan heen hiken want is echt prima te doen, en daar zonsondergang en met het trammetje weer naar beneden.",
+        "transport": "Peak Tram",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "west-kowloon",
+        "name": "West Kowloon Art Park",
+        "category": "Park/Museum",
+        "priority": "must-do",
+        "description": "Lievelingsplek!!! S'avonds in het park zitten met afgehaald eten en drankjes (moet je gedaan hebben!). Leuk om vanuit dit punt ook de Symphony of Lights te bekijken.",
+        "tips": "M+ museum in het park - hier sowieso een keer aan het eind van de middag heengaan en dan drankjes doen in het park",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "star-ferry",
+        "name": "Star Ferry",
+        "category": "Transport/Experience",
+        "priority": "recommended",
+        "description": "Leuk om met familie/vrienden die langskomen te doen aangezien je beide skylines ziet. Heel goedkoop en ik zou dit in je planning verwerken als je van Kowloon naar Island gaat of andersom.",
+        "priceRange": "$",
+        "tips": "De pont over het water",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "symphony-lights",
+        "name": "Symphony of Lights",
+        "category": "Show",
+        "priority": "recommended",
+        "description": "Om 20:00 elke avond een lichtshow van alle skyscrapers. Leuk om vanuit West Kowloon Art Park te zien!",
+        "time": "20:00 dagelijks",
+        "viewpoint": "West Kowloon Art Park",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "ding-ding-tram",
+        "name": "Ding Ding Tram Tour",
+        "category": "Experience",
+        "priority": "fun",
+        "description": "In ding ding tram heel island langs. Ook leuk om met vrienden/familie te doen, bv onderweg naar de horse races. Leuk om in 1 keer alles rustig te zien vooral s'avonds.",
+        "tips": "Tram nemen die een vaste route heeft over island (gaat niet heel snel maar wel heel leuk)",
+        "source": "Hong Kong favorites PDF + Rosa"
+      }
+    ],
+    "beaches": [
+      {
+        "id": "shek-o",
+        "name": "Shek O Beach",
+        "priority": "must-do",
+        "description": "Mooi strand super!!!! Lekkere Thai die je ziet als je de bus uit stapt. Heet letterlijk Shek O Thai ofzo.",
+        "facilities": ["Thai restaurant nearby", "Beach facilities"],
+        "transport": "Bus",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "big-wave-bay",
+        "name": "Big Wave Bay",
+        "priority": "recommended",
+        "description": "Heel mooi strand. Grotere golven, mooie baai, wat kleiner. In het weekend druk door surfers.",
+        "activities": ["Surfing - kan board huren voor 50 HKD"],
+        "tips": "Vergeet niet om cash mee te nemen voor surfboard en eten",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "repulse-bay",
+        "name": "Repulse Bay",
+        "priority": "optional",
+        "description": "Chill strand, met een 7/11 en leuke lunchtentjes dichtbij. Ben je snel met de bus. Wel het minst boeiende strand (wel mooi maar Big Wave Bay en Shek O mooier).",
+        "facilities": ["7-Eleven", "Restaurants nearby"],
+        "transport": "Bus - snel bereikbaar",
+        "source": "Hong Kong favorites PDF + Rosa"
+      }
+    ],
+    "sights": [
+      {
+        "id": "chi-lin-nunnery",
+        "name": "Chi Lin Nunnery & Nan Lian Garden",
+        "category": "Temple/Garden",
+        "priority": "recommended",
+        "description": "Leuk om een keer heen te gaan. Mooie tempel en tuin naast elkaar middenin de stad.",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "wong-tai-sin",
+        "name": "Wong Tai Sin Temple",
+        "category": "Temple",
+        "priority": "cultural",
+        "description": "Tempel in de buurt van Chi Lin en Nan Lian. Heel druk en veel mensen aan het bidden, veel wierook en hectisch. Vond ik daarom heel leuk om te zien, even wat anders.",
+        "tips": "Dichtbij Chi Lin",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "10000-buddhas",
+        "name": "10,000 Buddhas Monastery",
+        "category": "Temple",
+        "priority": "must-do",
+        "description": "Vond ik de leukste tempel! Wel iets verder weg maar even wat anders door het lange pad met buddhas waar je doorheen moet.",
+        "location": "Further away from centrum",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "monster-building",
+        "name": "Monster Building",
+        "category": "Photo Spot",
+        "priority": "instagram",
+        "description": "Goed om gezien te hebben. Indrukwekkend om te zien maar voelt ook een beetje dubbel om daar foto's te maken.",
+        "tips": "Voelde wel een beetje gek/ongepast om daar foto's te maken",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "choi-hung",
+        "name": "Choi Hung Estate",
+        "category": "Photo Spot",
+        "priority": "instagram",
+        "description": "Basketbal veldje met mooie regenboog gekleurde flats eromheen #instaworthy. Verder niet heel boeiend, dichtbij metro haltje leuk om ff uit te stappen en gezien te hebben.",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "midlevels-escalators",
+        "name": "Mid-Levels Escalators",
+        "category": "Experience",
+        "priority": "cultural",
+        "description": "Langste escalators van de wereld. Verder niet boeiend maar ga je vast een keer gebruiken als je in Central bent. Rondlopen in Midlevels: de langste roltrap ter wereld is hier, wat hippere buurt met allemaal leuke tentjes.",
+        "tips": "Bij Bakehouse de traditionele egg tarte proberen",
+        "source": "Hong Kong favorites PDF + Rosa"
+      },
+      {
+        "id": "man-mo-temple",
+        "name": "Man Mo Tempel",
+        "category": "Temple",
+        "priority": "optional",
+        "description": "Tempel middenin Central. Leuk om gezien te hebben als je er langs loopt.",
+        "location": "Central",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "ladies-market",
+        "name": "Ladies Market",
+        "category": "Market",
+        "priority": "optional",
+        "description": "Allemaal neppe zooi, leuke markt om overheen te lopen en zitten oprecht leuke dingen tussen. Dichtbij Temple Street.",
+        "location": "Kowloon",
+        "source": "Hong Kong favorites PDF"
+      }
+    ],
+    "cafes": [
+      {
+        "id": "blend-grind",
+        "name": "Blend & Grind",
+        "category": "Coffee",
+        "priority": "fun",
+        "description": "Koffietentje, leuk voor studeren, leuke muziek bijna te leuk voor studeren want je gaat elk nummer meezingen.",
+        "source": "Hong Kong favorites PDF"
+      },
+      {
+        "id": "little-cove",
+        "name": "Little Cove Espresso",
+        "category": "Cafe",
+        "location": "Kennedy Town (dichtbij HKU) aan het water",
+        "priority": "recommended",
+        "description": "Pulled kip tosti met sirachamayo heel lekker. Leuk om deze skyline gezien te hebben, loopt helemaal door naar Central.",
+        "dishes": ["Pulled chicken tosti met sriracha mayo"],
+        "source": "Hong Kong favorites PDF"
+      }
+    ],
+    "practical": [
+      {
+        "title": "Octopus Card",
+        "description": "Gebruik je voor al het openbaar vervoer, kan je ook op je telefoon downloaden.",
+        "category": "Transport",
+        "priority": "essential"
+      },
+      {
+        "title": "Cash meenemen",
+        "description": "Voor bepaalde activiteiten zoals kamperen, surfboard huren, eten bij kraampjes.",
+        "category": "Money",
+        "priority": "important"
+      },
+      {
+        "title": "Guru Walks",
+        "description": "Stadstour met Guru walk: een local vertelt wat over de buurt en dan kan je een fooi geven op het einde (ongeveer 10€ is wel netjes). Leuk om in Mong Kok of Wan Chai te doen.",
+        "category": "Tour",
+        "priority": "recommended"
+      }
+    ]
+  },
+  "singapore": {
+    "restaurants": [
+      {
+        "id": "lau-pa-sat",
+        "name": "Lau Pa Sat",
+        "category": "Hawker Centre",
+        "priority": "must-do",
+        "description": "Singapore's only hawker market under a gazetted national monument, managed by FairPrice Group's Kopitiam.",
+        "location": "National Monument",
+        "website": "https://www.laupasat.sg",
+        "source": "Search results"
+      },
+      {
+        "id": "birds-of-feather",
+        "name": "Birds of a Feather",
+        "category": "Restaurant",
+        "priority": "recommended",
+        "description": "Restaurant met goede reviews (4.4 stars, 1538 reviews).",
+        "rating": "4.4",
+        "status": "Gesloten, gaat open om 18:00",
+        "source": "Search results"
+      },
+      {
+        "id": "employees-only",
+        "name": "Employees Only Singapore",
+        "category": "Cocktail Bar",
+        "priority": "recommended",
+        "description": "Cocktailbar met goede reviews (4.2 stars, 993 reviews).",
+        "rating": "4.2",
+        "status": "Geopend, sluit om 00:00",
+        "source": "Search results"
+      }
+    ],
+    "nightlife": [
+      {
+        "id": "marina-bay-sands-spago",
+        "name": "Spago (Marina Bay Sands)",
+        "category": "Restaurant/Party",
+        "priority": "nye-recommended",
+        "description": "Restaurant at the top of Marina Bay Sands that becomes a party. Outdoor party area is super fun after dinner.",
+        "occasion": "New Year's Eve",
+        "location": "Top of Marina Bay Sands",
+        "tips": "Book early!",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "marina-bay-sands-lavo",
+        "name": "Lavo (Marina Bay Sands)",
+        "category": "Restaurant/Party",
+        "priority": "nye-option",
+        "description": "Restaurant at the top of Marina Bay Sands for NYE.",
+        "occasion": "New Year's Eve",
+        "location": "Top of Marina Bay Sands",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "marina-bay-sands-celavi",
+        "name": "Ce La Vi (Marina Bay Sands)",
+        "category": "Restaurant/Party",
+        "priority": "nye-option",
+        "description": "Restaurant at the top of Marina Bay Sands for NYE.",
+        "occasion": "New Year's Eve",
+        "location": "Top of Marina Bay Sands",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "cotu",
+        "name": "Cotu",
+        "category": "Restaurant/Club",
+        "priority": "nye-recommended",
+        "description": "Cool party venue - unique space with bunch of restaurants and also a club lounge for the after party and fireworks view.",
+        "occasion": "New Year's Eve",
+        "website": "cotu.co",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "sushi-samba",
+        "name": "Sushi Samba",
+        "category": "Restaurant/Party",
+        "priority": "nye-option",
+        "description": "New Year's Eve party option.",
+        "occasion": "New Year's Eve",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "clifford-pier",
+        "name": "Clifford Pier",
+        "category": "Restaurant",
+        "priority": "nye-backup",
+        "description": "Backup option on the bay for NYE.",
+        "occasion": "New Year's Eve",
+        "location": "Bay area",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "lantern-bar",
+        "name": "Lantern Bar",
+        "category": "Bar",
+        "priority": "nye-backup",
+        "description": "At Fullerton Bay Hotel - backup option for NYE.",
+        "occasion": "New Year's Eve",
+        "location": "Fullerton Bay Hotel",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "super-loco",
+        "name": "Super Loco Customs House",
+        "category": "Restaurant",
+        "priority": "nye-backup",
+        "description": "Backup option on the bay.",
+        "occasion": "New Year's Eve",
+        "source": "Samar Singapore Guide"
+      },
+      {
+        "id": "kinki",
+        "name": "Kinki",
+        "category": "Restaurant",
+        "priority": "nye-backup",
+        "description": "Backup option.",
+        "occasion": "New Year's Eve",
+        "source": "Samar Singapore Guide"
+      }
+    ],
+    "activities": [
+      {
+        "id": "gardens-by-bay",
+        "name": "Gardens by the Bay",
+        "category": "Sightseeing",
+        "priority": "must-do",
+        "description": "Iconic Singapore attraction with Supertree Grove.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "botanic-gardens",
+        "name": "Singapore Botanic Gardens",
+        "category": "Garden",
+        "priority": "recommended",
+        "description": "First UNESCO Heritage Site in Singapore. Steps away from Artyzen Singapore.",
+        "unesco": true,
+        "location": "Near hotel",
+        "source": "Accommodation info"
+      },
+      {
+        "id": "bike-tour",
+        "name": "Guided Bike Tour",
+        "category": "Tour",
+        "priority": "recommended",
+        "description": "Ontdek de stad op een unieke manier tijdens een begeleide fietstocht, waarbij u de kleurrijke wijken, indrukwekkende architectuur en fascinerende geschiedenis van Singapore leert kennen.",
+        "tips": "Check if booked via travel agency",
+        "source": "Travel itinerary"
+      },
+      {
+        "id": "raffles-hotel",
+        "name": "Raffles Hotel",
+        "category": "Sightseeing",
+        "priority": "recommended",
+        "description": "Iconic luxury hotel (4.6 rating, 6.1K reviews). Historic Singapore landmark.",
+        "rating": "4.6",
+        "location": "1 Beach Rd, Singapore 189673",
+        "source": "Search results"
+      },
+      {
+        "id": "sentosa",
+        "name": "Sentosa Island",
+        "category": "Beach/Theme Park",
+        "priority": "optional",
+        "description": "Island resort with beaches, Universal Studios, and attractions.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "chinatown",
+        "name": "Chinatown",
+        "category": "District",
+        "priority": "recommended",
+        "description": "Historic Chinese district with temples, markets, and food.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "little-india",
+        "name": "Little India",
+        "category": "District",
+        "priority": "recommended",
+        "description": "Vibrant Indian district with colorful streets, temples, and shops.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "arab-street",
+        "name": "Arab Street",
+        "category": "District",
+        "priority": "recommended",
+        "description": "Historic Arab quarter with Sultan Mosque and trendy cafes.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "clarke-quay",
+        "name": "Clarke Quay",
+        "category": "Nightlife/Dining",
+        "priority": "recommended",
+        "description": "Riverside area with restaurants, bars, and nightlife.",
+        "source": "General knowledge"
+      }
+    ],
+    "practical": [
+      {
+        "title": "SG Arrival Card",
+        "description": "Registreer binnen 3 dagen vóór aankomst via https://eservices.ica.gov.sg/sgarrivalcard. Bij aankomst code aan douane tonen.",
+        "url": "https://eservices.ica.gov.sg/sgarrivalcard",
+        "deadline": "3 dagen voor aankomst (27 december)",
+        "category": "Immigration",
+        "priority": "essential"
+      }
+    ]
+  },
+  "langkawi": {
+    "activities": [
+      {
+        "id": "langkawi-cable-car",
+        "name": "Langkawi Cable Car & Sky Bridge",
+        "category": "Attraction",
+        "priority": "recommended",
+        "description": "Cable car ride with stunning views and famous sky bridge.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "island-hopping",
+        "name": "Island Hopping Tour",
+        "category": "Boat Tour",
+        "priority": "recommended",
+        "description": "Visit nearby islands, beaches, and swim spots.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "kilim-geoforest",
+        "name": "Kilim Geoforest Park",
+        "category": "Nature",
+        "priority": "recommended",
+        "description": "Mangrove forest tour with wildlife and limestone formations.",
+        "source": "General knowledge"
+      },
+      {
+        "id": "cenang-beach",
+        "name": "Pantai Cenang Beach",
+        "category": "Beach",
+        "priority": "must-do",
+        "description": "Main beach at the resort - 1km private beach section. White sand beaches.",
+        "facilities": ["Resort facilities", "Watersports", "Restaurants"],
+        "source": "Accommodation info"
+      }
+    ],
+    "practical": [
+      {
+        "title": "Malaysia Digital Arrival Card (MDAC)",
+        "description": "Registreer binnen 3 dagen vóór aankomst via https://imigresen-online.imi.gov.my/mdac/main",
+        "url": "https://imigresen-online.imi.gov.my/mdac/main",
+        "deadline": "3 dagen voor aankomst (31 december)",
+        "category": "Immigration",
+        "priority": "essential"
+      },
+      {
+        "title": "Resort Watersport",
+        "description": "Het resort heeft uitgebreide watersport- en ontspanningsfaciliteiten.",
+        "category": "Activity",
+        "priority": "info"
+      }
+    ]
+  },
+  "dubai": {
+    "activities": [
+      {
+        "id": "burj-khalifa",
+        "name": "Burj Khalifa",
+        "category": "Sightseeing",
+        "priority": "must-do",
+        "description": "World's tallest building with observation decks.",
+        "distance": "40 min from resort",
+        "source": "General knowledge"
+      },
+      {
+        "id": "dubai-mall",
+        "name": "Dubai Mall",
+        "category": "Shopping",
+        "priority": "recommended",
+        "description": "One of the world's largest shopping malls.",
+        "distance": "40 min from resort",
+        "source": "General knowledge"
+      },
+      {
+        "id": "dubai-marina",
+        "name": "Dubai Marina",
+        "category": "District",
+        "priority": "optional",
+        "description": "Modern waterfront district with restaurants and walks.",
+        "distance": "40 min from resort",
+        "source": "General knowledge"
+      },
+      {
+        "id": "desert-activities",
+        "name": "Desert Activities at Resort",
+        "category": "Resort Activity",
+        "priority": "recommended",
+        "description": "Woestijnactiviteiten beschikbaar bij het resort. Geniet van de unieke woestijnervaring.",
+        "location": "Bab Al Shams",
+        "source": "Accommodation info"
+      },
+      {
+        "id": "spa-wellness",
+        "name": "Spa & Wellness",
+        "category": "Relaxation",
+        "priority": "recommended",
+        "description": "Spa facilities at the resort with traditional Arabian treatments.",
+        "location": "Bab Al Shams",
+        "source": "Accommodation info"
+      }
+    ],
+    "dining": [
+      {
+        "id": "desert-dinner",
+        "name": "Traditional Arabian Dinner",
+        "category": "Dining Experience",
+        "priority": "must-do",
+        "description": "Sfeervolle diners onder de sterren in de woestijn. Traditionele Arabische gastvrijheid.",
+        "location": "Bab Al Shams",
+        "source": "Accommodation info"
+      }
+    ]
+  }
+}
+

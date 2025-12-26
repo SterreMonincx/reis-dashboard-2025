@@ -1,0 +1,193 @@
+{
+  "flights": [
+    {
+      "id": "ek150",
+      "date": "2025-12-26",
+      "airline": "Emirates",
+      "flightNumber": "EK 150",
+      "class": "2x Business Class, 5x Economy Class",
+      "departure": {
+        "airport": "Amsterdam International Airport Schiphol",
+        "code": "AMS",
+        "time": "22:00"
+      },
+      "arrival": {
+        "airport": "Dubai International Airport",
+        "code": "DXB",
+        "time": "07:45",
+        "nextDay": true
+      }
+    },
+    {
+      "id": "ek380",
+      "date": "2025-12-27",
+      "airline": "Emirates",
+      "flightNumber": "EK 380",
+      "class": "2x Business Class, 5x Economy Class",
+      "departure": {
+        "airport": "Dubai International Airport",
+        "code": "DXB",
+        "time": "10:40"
+      },
+      "arrival": {
+        "airport": "Hong Kong International Airport",
+        "code": "HKG",
+        "time": "21:50"
+      }
+    },
+    {
+      "id": "sq899",
+      "date": "2025-12-30",
+      "airline": "Singapore Airlines",
+      "flightNumber": "SQ 899",
+      "class": "2x Business Class, 5x Economy Class",
+      "departure": {
+        "airport": "Hong Kong International Airport",
+        "code": "HKG",
+        "time": "09:05"
+      },
+      "arrival": {
+        "airport": "Singapore Changi International Airport",
+        "code": "SIN",
+        "time": "12:55"
+      }
+    },
+    {
+      "id": "ak733",
+      "date": "2026-01-03",
+      "airline": "AirAsia",
+      "flightNumber": "AK 733",
+      "class": "Economy Class",
+      "departure": {
+        "airport": "Singapore Changi International Airport",
+        "code": "SIN",
+        "time": "10:45"
+      },
+      "arrival": {
+        "airport": "Langkawi International Airport",
+        "code": "LGK",
+        "time": "12:15"
+      }
+    },
+    {
+      "id": "ek2390a",
+      "date": "2026-01-07",
+      "airline": "Emirates",
+      "flightNumber": "EK 2390",
+      "class": "2x Business Class, 5x Economy Class",
+      "departure": {
+        "airport": "Langkawi International Airport",
+        "code": "LGK",
+        "time": "20:05"
+      },
+      "arrival": {
+        "airport": "Penang International Airport",
+        "code": "PEN",
+        "time": "20:50"
+      },
+      "note": "Stopover in Penang"
+    },
+    {
+      "id": "ek2390b",
+      "date": "2026-01-07",
+      "airline": "Emirates",
+      "flightNumber": "EK 2390",
+      "class": "2x Business Class, 5x Economy Class",
+      "departure": {
+        "airport": "Penang International Airport",
+        "code": "PEN",
+        "time": "21:50"
+      },
+      "arrival": {
+        "airport": "Dubai International Airport",
+        "code": "DXB",
+        "time": "01:25",
+        "nextDay": true
+      }
+    },
+    {
+      "id": "ek149",
+      "date": "2026-01-10",
+      "airline": "Emirates",
+      "flightNumber": "EK 149",
+      "class": "2x Business Class, 5x Economy Class",
+      "departure": {
+        "airport": "Dubai International Airport",
+        "code": "DXB",
+        "time": "15:20"
+      },
+      "arrival": {
+        "airport": "Amsterdam International Airport Schiphol",
+        "code": "AMS",
+        "time": "20:00"
+      }
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2025-12-27",
+      "type": "Privé Transfer",
+      "from": "Hong Kong International Airport (HKG)",
+      "to": "The Hari Hong Kong"
+    },
+    {
+      "date": "2025-12-30",
+      "type": "Privé Transfer",
+      "from": "The Hari Hong Kong",
+      "to": "Hong Kong International Airport (HKG)"
+    },
+    {
+      "date": "2025-12-30",
+      "type": "Privé Transfer",
+      "from": "Singapore Changi International Airport (SIN)",
+      "to": "Artyzen Singapore"
+    },
+    {
+      "date": "2026-01-03",
+      "type": "Privé Transfer",
+      "from": "Artyzen Singapore",
+      "to": "Singapore Changi International Airport (SIN)"
+    },
+    {
+      "date": "2026-01-03",
+      "type": "Privé Transfer",
+      "from": "Langkawi International Airport (LGK)",
+      "to": "Pelangi Beach Resort & Spa Langkawi"
+    },
+    {
+      "date": "2026-01-07",
+      "type": "Privé Transfer",
+      "from": "Pelangi Beach Resort & Spa Langkawi",
+      "to": "Langkawi International Airport (LGK)"
+    },
+    {
+      "date": "2026-01-07",
+      "type": "Privé Transfer",
+      "from": "Dubai International Airport (DXB)",
+      "to": "Bab Al Shams"
+    },
+    {
+      "date": "2026-01-10",
+      "type": "Privé Transfer",
+      "from": "Bab Al Shams",
+      "to": "Dubai International Airport (DXB)"
+    }
+  ],
+  "importantReminders": [
+    {
+      "title": "SG Arrival Card",
+      "description": "Om Singapore binnen te komen, hebben jullie een SG Arrival Card nodig. Registreer binnen 3 dagen vóór aankomst.",
+      "url": "https://eservices.ica.gov.sg/sgarrivalcard",
+      "deadline": "3 dagen voor aankomst",
+      "applicableTo": "Singapore"
+    },
+    {
+      "title": "Malaysia Digital Arrival Card",
+      "description": "Om Maleisië binnen te komen, hebben jullie een Malaysia Digital Arrival Card (MDAC) nodig. Registreer binnen 3 dagen vóór aankomst.",
+      "url": "https://imigresen-online.imi.gov.my/mdac/main",
+      "deadline": "3 dagen voor aankomst",
+      "applicableTo": "Langkawi (Maleisië)"
+    }
+  ]
+}
+

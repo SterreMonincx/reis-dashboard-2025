@@ -1,0 +1,441 @@
+{
+  "destinations": {
+    "hong-kong": {
+      "name": "Hong Kong",
+      "dates": "27-30 december 2025",
+      "days": [
+        {
+          "date": "2025-12-27",
+          "dayName": "Vrijdag",
+          "dayNumber": 1,
+          "items": [
+            {
+              "time": "21:50",
+              "type": "arrival",
+              "title": "Aankomst Hong Kong",
+              "location": "Hong Kong International Airport",
+              "details": "Vlucht EK 380",
+              "icon": "plane"
+            },
+            {
+              "time": "Late avond",
+              "type": "transfer",
+              "title": "Transfer naar hotel",
+              "location": "The Hari Hong Kong, Wan Chai",
+              "icon": "car"
+            },
+            {
+              "time": "",
+              "type": "accommodation",
+              "title": "Check-in The Hari Hotel",
+              "location": "Wan Chai",
+              "icon": "hotel"
+            }
+          ]
+        },
+        {
+          "date": "2025-12-28",
+          "dayName": "Zaterdag",
+          "dayNumber": 2,
+          "items": [
+            {
+              "time": "Ochtend",
+              "type": "free",
+              "title": "Vrije tijd - Jet lag recovery",
+              "suggestions": ["Ontspannen in hotel", "Korte wandeling in Wan Chai buurt", "Octopus card regelen"],
+              "icon": "coffee"
+            },
+            {
+              "time": "Middag",
+              "type": "activity",
+              "title": "Verkenning Hong Kong Island",
+              "suggestions": ["Mid-levels escalators", "Soho district", "Peel Street"],
+              "icon": "map"
+            },
+            {
+              "time": "18:30",
+              "type": "reservation",
+              "title": "Dinner bij FRANCIS",
+              "location": "FRANCIS Restaurant",
+              "confirmed": true,
+              "icon": "restaurant"
+            }
+          ]
+        },
+        {
+          "date": "2025-12-29",
+          "dayName": "Zondag",
+          "dayNumber": 3,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "free",
+              "title": "Vrij te plannen",
+              "suggestions": [
+                "Dragons Back hike + Shek O beach",
+                "Victoria Peak met zonsondergang",
+                "West Kowloon Art Park + M+ museum",
+                "Chi Lin Nunnery & Nan Lian Garden"
+              ],
+              "icon": "calendar"
+            }
+          ]
+        },
+        {
+          "date": "2025-12-30",
+          "dayName": "Maandag",
+          "dayNumber": 4,
+          "items": [
+            {
+              "time": "Ochtend",
+              "type": "free",
+              "title": "Laatste ochtend Hong Kong",
+              "suggestions": ["Dim Sum ontbijt (Din Tai Fung, Tim Ho Wan)", "Last-minute shopping"],
+              "icon": "sunrise"
+            },
+            {
+              "time": "09:05",
+              "type": "departure",
+              "title": "Vlucht naar Singapore",
+              "location": "Hong Kong International Airport",
+              "details": "SQ 899 - Singapore Airlines",
+              "icon": "plane"
+            }
+          ]
+        }
+      ]
+    },
+    "singapore": {
+      "name": "Singapore",
+      "dates": "30 december 2025 - 3 januari 2026",
+      "days": [
+        {
+          "date": "2025-12-30",
+          "dayName": "Maandag",
+          "dayNumber": 1,
+          "items": [
+            {
+              "time": "12:55",
+              "type": "arrival",
+              "title": "Aankomst Singapore",
+              "location": "Singapore Changi International Airport",
+              "details": "Vlucht SQ 899",
+              "icon": "plane"
+            },
+            {
+              "time": "Middag",
+              "type": "transfer",
+              "title": "Transfer naar hotel",
+              "location": "Artyzen Singapore, Orchard Road",
+              "icon": "car"
+            },
+            {
+              "time": "Avond",
+              "type": "free",
+              "title": "Verkenning Orchard Road",
+              "suggestions": ["Orchard Road shopping", "Ontspannen bij hotel rooftop pool"],
+              "icon": "walk"
+            }
+          ]
+        },
+        {
+          "date": "2025-12-31",
+          "dayName": "Dinsdag",
+          "dayNumber": 2,
+          "items": [
+            {
+              "time": "Overdag",
+              "type": "activity",
+              "title": "Singapore sightseeing",
+              "suggestions": [
+                "Gardens by the Bay",
+                "Marina Bay Sands area",
+                "Singapore Botanic Gardens",
+                "Lau Pa Sat hawker center"
+              ],
+              "icon": "camera"
+            },
+            {
+              "time": "Avond",
+              "type": "special",
+              "title": "🎉 OUDEJAARSAVOND",
+              "suggestions": [
+                "Marina Bay Sands rooftop (Spago/Lavo/Ce La Vi)",
+                "Cotu restaurants + club",
+                "Sushi Samba",
+                "Clifford Pier",
+                "Lantern Bar (Fullerton Bay Hotel)"
+              ],
+              "note": "Tips van Samar - vroeg boeken!",
+              "icon": "party"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-01",
+          "dayName": "Woensdag",
+          "dayNumber": 3,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "free",
+              "title": "🎊 NIEUWJAARSDAG - Rustig aan",
+              "suggestions": ["Uitslapen", "Brunch", "Relaxen bij hotel pool", "Chinatown verkennen"],
+              "icon": "relax"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-02",
+          "dayName": "Donderdag",
+          "dayNumber": 4,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "free",
+              "title": "Vrij te plannen",
+              "suggestions": [
+                "Sentosa Island",
+                "Little India & Arab Street",
+                "Raffles Hotel",
+                "Clarke Quay",
+                "Guided bike tour (geboekt?)"
+              ],
+              "icon": "calendar"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-03",
+          "dayName": "Vrijdag",
+          "dayNumber": 5,
+          "items": [
+            {
+              "time": "Ochtend",
+              "type": "free",
+              "title": "Laatste ochtend Singapore",
+              "icon": "coffee"
+            },
+            {
+              "time": "10:45",
+              "type": "departure",
+              "title": "Vlucht naar Langkawi",
+              "location": "Singapore Changi Airport",
+              "details": "AK 733 - AirAsia",
+              "icon": "plane"
+            }
+          ]
+        }
+      ]
+    },
+    "langkawi": {
+      "name": "Langkawi",
+      "dates": "3-7 januari 2026",
+      "days": [
+        {
+          "date": "2026-01-03",
+          "dayName": "Vrijdag",
+          "dayNumber": 1,
+          "items": [
+            {
+              "time": "12:15",
+              "type": "arrival",
+              "title": "Aankomst Langkawi",
+              "location": "Langkawi International Airport",
+              "details": "Vlucht AK 733",
+              "icon": "plane"
+            },
+            {
+              "time": "Middag",
+              "type": "transfer",
+              "title": "Transfer naar resort",
+              "location": "Pelangi Beach Resort & Spa, Cenang Beach",
+              "icon": "car"
+            },
+            {
+              "time": "Namiddag/Avond",
+              "type": "relaxation",
+              "title": "Aankomst & Resort verkennen",
+              "suggestions": ["Check-in", "Strand verkennen", "Resort facilities bekijken"],
+              "icon": "beach"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-04",
+          "dayName": "Zaterdag",
+          "dayNumber": 2,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "relaxation",
+              "title": "Stranddag & Ontspanning",
+              "suggestions": [
+                "Cenang Beach (1km privéstrand)",
+                "Watersport activiteiten bij resort",
+                "Spa treatment",
+                "Relaxen bij pool"
+              ],
+              "icon": "umbrella"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-05",
+          "dayName": "Zondag",
+          "dayNumber": 3,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "free",
+              "title": "Vrij te plannen",
+              "suggestions": [
+                "Langkawi Cable Car & Sky Bridge",
+                "Island hopping tour",
+                "Kilim Geoforest Park",
+                "Pantai Cenang strand blijven genieten"
+              ],
+              "icon": "calendar"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-06",
+          "dayName": "Maandag",
+          "dayNumber": 4,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "relaxation",
+              "title": "Laatste volle dag paradijs",
+              "suggestions": ["Strand", "Watersport", "Resort genieten", "Sunset watching"],
+              "icon": "sunset"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-07",
+          "dayName": "Dinsdag",
+          "dayNumber": 5,
+          "items": [
+            {
+              "time": "Overdag",
+              "type": "free",
+              "title": "Laatste ochtend Langkawi",
+              "icon": "coffee"
+            },
+            {
+              "time": "20:05",
+              "type": "departure",
+              "title": "Vlucht naar Dubai (via Penang)",
+              "location": "Langkawi International Airport",
+              "details": "EK 2390 - Emirates (stopover Penang 21:50)",
+              "icon": "plane"
+            }
+          ]
+        }
+      ]
+    },
+    "dubai": {
+      "name": "Dubai",
+      "dates": "7-10 januari 2026",
+      "days": [
+        {
+          "date": "2026-01-07",
+          "dayName": "Dinsdag (nacht)",
+          "dayNumber": 1,
+          "items": [
+            {
+              "time": "01:25",
+              "type": "arrival",
+              "title": "Aankomst Dubai",
+              "location": "Dubai International Airport",
+              "details": "Vlucht EK 2390 (via Penang)",
+              "note": "Late aankomst - nachtrust",
+              "icon": "plane"
+            },
+            {
+              "time": "Nacht",
+              "type": "transfer",
+              "title": "Transfer naar woestijn resort",
+              "location": "Bab Al Shams Desert Resort",
+              "icon": "car"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-08",
+          "dayName": "Woensdag",
+          "dayNumber": 2,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "relaxation",
+              "title": "Woestijn resort ervaring",
+              "suggestions": [
+                "Uitslapen na late aankomst",
+                "Resort verkennen",
+                "Spa & wellness",
+                "Infinity pool",
+                "Woestijn wandeling",
+                "Traditioneel diner onder de sterren"
+              ],
+              "icon": "desert"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-09",
+          "dayName": "Donderdag",
+          "dayNumber": 3,
+          "items": [
+            {
+              "time": "Hele dag",
+              "type": "free",
+              "title": "Vrij te plannen",
+              "suggestions": [
+                "Dubai centrum bezoek (40 min rijden)",
+                "Burj Khalifa",
+                "Dubai Mall",
+                "Dubai Marina",
+                "Of: relaxen in resort"
+              ],
+              "icon": "calendar"
+            }
+          ]
+        },
+        {
+          "date": "2026-01-10",
+          "dayName": "Vrijdag",
+          "dayNumber": 4,
+          "items": [
+            {
+              "time": "Ochtend",
+              "type": "free",
+              "title": "Laatste ochtend woestijn",
+              "suggestions": ["Laatste ontbijt in de woestijn", "Foto's maken"],
+              "icon": "camera"
+            },
+            {
+              "time": "15:20",
+              "type": "departure",
+              "title": "Vlucht terug naar Amsterdam",
+              "location": "Dubai International Airport",
+              "details": "EK 149 - Emirates",
+              "icon": "plane"
+            },
+            {
+              "time": "20:00",
+              "type": "arrival",
+              "title": "Aankomst Amsterdam",
+              "location": "Schiphol Airport",
+              "details": "🏠 Thuis!",
+              "icon": "home"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+
