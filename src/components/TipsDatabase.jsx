@@ -9,7 +9,7 @@ const TipsDatabase = () => {
   const [priorityFilter, setPriorityFilter] = useState('all');
 
   useEffect(() => {
-    fetch('/data/tips.json')
+    fetch(`${import.meta.env.BASE_URL}data/tips.json`)
       .then((res) => res.json())
       .then((data) => {
         setTips(data);

@@ -6,7 +6,7 @@ const ItineraryView = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/data/itinerary.json')
+    fetch(`${import.meta.env.BASE_URL}data/itinerary.json`)
       .then((res) => res.json())
       .then((data) => {
         setItinerary(data.destinations);

@@ -8,8 +8,8 @@ const FlightInfo = () => {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/flights.json').then(res => res.json()),
-      fetch('/data/accommodations.json').then(res => res.json())
+      fetch(`${import.meta.env.BASE_URL}data/flights.json`).then(res => res.json()),
+      fetch(`${import.meta.env.BASE_URL}data/accommodations.json`).then(res => res.json())
     ])
       .then(([flights, accom]) => {
         setFlightData(flights);
