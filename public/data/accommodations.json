@@ -1,0 +1,125 @@
+{
+  "accommodations": [
+    {
+      "id": "the-hari-hk",
+      "name": "The Hari Hong Kong",
+      "destination": "Hong Kong",
+      "location": "Wan Chai, Hong Kong Island",
+      "checkIn": "2025-12-27",
+      "checkOut": "2025-12-30",
+      "nights": 3,
+      "type": "Hotel",
+      "roomType": "4x Premium kamer met uitzicht op de stad",
+      "board": "Logies en ontbijt",
+      "description": "The Hari offers a stylish and luxurious retreat in Hong Kong. The hotel offers the perfect location for guests to explore the city and the neighbouring areas of Causeway Bay and Wan Chai.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Nespresso coffee machines",
+        "Flat-screen TVs",
+        "Zoku Restaurant (Japanese)",
+        "Lucciola Restaurant & Bar (Italian)",
+        "Terrace",
+        "Lounge",
+        "Business facilities"
+      ],
+      "website": "https://www.thehari.com/",
+      "nearbyAreas": ["Causeway Bay", "Wan Chai"],
+      "images": []
+    },
+    {
+      "id": "artyzen-sg",
+      "name": "Artyzen Singapore",
+      "destination": "Singapore",
+      "location": "Orchard Road",
+      "checkIn": "2025-12-30",
+      "checkOut": "2026-01-03",
+      "nights": 4,
+      "type": "Hotel",
+      "roomType": "4x Premier Balcony King",
+      "board": "Logies en ontbijt",
+      "description": "Inspired by Singapore's culture, colours, and flavours, Artyzen Singapore is a modern lifestyle hotel for luxury travellers. Located in the heart of the city, just a stone's throw from the bustling Orchard Road and steps away from Singapore Botanic Gardens.",
+      "amenities": [
+        "Spacious rooms with balconies",
+        "Ceiling fans",
+        "Luxurious bathrooms",
+        "Rooftop garden",
+        "Swimming pool",
+        "Wellness and workout space",
+        "Restaurant"
+      ],
+      "website": "https://www.artyzen.com",
+      "nearbyAreas": ["Orchard Road", "Singapore Botanic Gardens (UNESCO)"],
+      "images": []
+    },
+    {
+      "id": "pelangi-langkawi",
+      "name": "Pelangi Beach Resort & Spa Langkawi",
+      "destination": "Langkawi",
+      "location": "Cenang Beach, Langkawi Island",
+      "checkIn": "2026-01-03",
+      "checkOut": "2026-01-07",
+      "nights": 4,
+      "type": "Resort",
+      "roomType": "4x Pool Terrace",
+      "board": "Logies en ontbijt",
+      "description": "Gasten kunnen genieten van een wereld van rustieke charme en tropische rust in Meritus Pelangi Beach Resort & Spa. Het resort ligt aan de witte zandstranden van het beroemde strand van Cenang en grenst aan een stuk privéstrand van 1 km lang.",
+      "amenities": [
+        "Houten chalets met eigen balkon",
+        "Uitzicht op zee en tuinen",
+        "1 km privéstrand",
+        "Veelzijdige binnen- en buitenruimten",
+        "Levendige eetgelegenheden",
+        "Uitgebreide watersport faciliteiten",
+        "Ontspanningsfaciliteiten"
+      ],
+      "website": "https://www.pelangiresort.com/",
+      "nearbyAreas": ["Cenang Beach"],
+      "images": []
+    },
+    {
+      "id": "bab-al-shams",
+      "name": "Bab Al Shams Desert Resort",
+      "destination": "Dubai",
+      "location": "Al Qudra Road, Dubai Desert",
+      "address": "Al Qudra Road - opposite Endurance City - Mugatrah - Dubai",
+      "phone": "+971 4 809 6100",
+      "checkIn": "2026-01-07",
+      "checkOut": "2026-01-10",
+      "nights": 3,
+      "type": "Resort",
+      "roomType": "1x Terrace Desert View Room, 3x Deluxe Garden View Room",
+      "board": "Logies en ontbijt",
+      "description": "Een exclusief laagbouwresort in de woestijn, omgeven door zacht glooiende duinen en een natuurlijk woestijnlandschap. Gebouwd in een Arabische fortomgeving, in en rond een oase. Binnen de muren bieden schaduwrijke binnenplaatsen, loopbruggen en waterpartijen koele beschutting.",
+      "amenities": [
+        "Arabische fort-architectuur",
+        "Oase setting",
+        "Schaduwrijke binnenplaatsen",
+        "Loopbruggen en waterpartijen",
+        "Infinity pool",
+        "Spa",
+        "Traditionele Arabische gastvrijheid",
+        "Woestijnactiviteiten"
+      ],
+      "website": "https://www.babalshams.com/",
+      "distance": "40 minuten van Dubai centrum, 45 minuten van Dubai International Airport",
+      "images": []
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Mr. O. (Oscar) Monincx",
+      "phone": "+31652008060"
+    },
+    {
+      "name": "Mw. C.R. (Carmen) Slokker",
+      "phone": "+31612345678"
+    }
+  ],
+  "travelAgency": {
+    "name": "Luxury Travel Consultants (YourTravel)",
+    "agent": "Desiree Kok",
+    "phone": "0620300510",
+    "reference": "A2501439"
+  }
+}
+
